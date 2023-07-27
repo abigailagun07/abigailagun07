@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abigailagun07](https://github.com/abigailagun07)
 
-- 💬 Ask me about **my journey and how i transitioned from Biomedical Science to Data Science**
+- 💬 Ask me about **my journey and how I transitioned from Biomedical Science to Data Science**
 
-- 📫 How to reach me **abigail.agun@hotmail.com**
+- 📫 How to reach me: **abigail.agun@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
