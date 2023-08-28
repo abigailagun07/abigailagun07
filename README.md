@@ -1,4 +1,3 @@
-![Banner](https://synder.com/blog/wp-content/uploads/sites/5/2023/04/data-driven-analytics-and-why-its-important.jpg)
 <h1 align="center">Hi 👋, I'm Abigail Agunbiade</h1>
 <h3 align="center">A passionate Data Scientist and Analyst.</h3>
 <img align="right" alt="Coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
