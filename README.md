@@ -28,7 +28,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abigailagunbiade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abigailagunbiade" height="20" width="30" /> LinkedIn</a>
+  <a href="https://www.linkedin.com/in/abigail-agunbiade-64b799140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abigailagunbiade" height="20" width="30" /> LinkedIn</a>
   <a href="mailto:abigail.agun@hotmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg"  alt="email" height="20" width="30" /> Email</a>
 </p>
 
