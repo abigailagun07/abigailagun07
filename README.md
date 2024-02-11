@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **all the amazing things one can achieve with data**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abigailagun07](https://github.com/abigailagun07)
+- 👨‍💻 All of my projects are available at [https://github.com/abigailagun07](https://abigailagun07.github.io/)
 
 - 💬 Ask me about **my journey and how I transitioned from Biomedical Science to Data Science and analytics**
 
